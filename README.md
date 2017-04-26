@@ -1,6 +1,6 @@
 # npmdoc-linux
 
-#### api documentation for  [linux (v2.6.0)](https://github.com/maxogden/linux#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-linux.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-linux) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-linux.svg)](https://travis-ci.org/npmdoc/node-npmdoc-linux)
+#### basic api documentation for  [linux (v2.6.0)](https://github.com/maxogden/linux#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-linux.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-linux) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-linux.svg)](https://travis-ci.org/npmdoc/node-npmdoc-linux)
 
 #### run linux
 

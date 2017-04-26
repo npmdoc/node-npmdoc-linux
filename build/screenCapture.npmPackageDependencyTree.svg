@@ -15,7 +15,7 @@
 <tspan x="10" y="202">  │ │ │ │ └── array-find-index@1.0.2 </tspan>
 <tspan x="10" y="218">  │ │ │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="234">  │ │ ├── map-obj@1.0.1 </tspan>
-<tspan x="10" y="250">  │ │ ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="250">  │ │ ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="266">  │ │ │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="282">  │ │ │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="298">  │ │ │ │ └── builtin-modules@1.1.1 </tspan>
@@ -68,8 +68,8 @@
 <tspan x="10" y="1050">  │ └── minimist@0.0.8 </tspan>
 <tspan x="10" y="1066">  ├── node-forge@0.6.49 </tspan>
 <tspan x="10" y="1082">  ├─┬ nugget@1.6.2 </tspan>
-<tspan x="10" y="1098">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1114">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1098">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1114">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1130">  │ ├─┬ pretty-bytes@1.0.4 </tspan>
 <tspan x="10" y="1146">  │ │ └── get-stdin@4.0.1 </tspan>
 <tspan x="10" y="1162">  │ ├─┬ progress-stream@1.2.0 </tspan>
@@ -116,7 +116,7 @@
 <tspan x="10" y="1818">  │ │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="1834">  │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1850">  │ │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="1866">  │ │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1866">  │ │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="1882">  │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1898">  │ │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1914">  │ │ │   ├── jsbn@0.1.1 </tspan>
